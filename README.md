@@ -7,7 +7,7 @@
 
 Consulte os custos disponíveis do mês atual da sua conta AWS, agrupados por serviço, diretamente pelo AWS CloudShell.
 
-Este projeto é referência do nosso artigo **[Como consultar os custos da AWS pelo CloudShell](https://www.vocecertificado.com.br/consultar-custos-aws-cloudshell/)**, do blog da Você Certificado®.
+Este projeto é referência do artigo, **[Como consultar os custos da AWS pelo CloudShell](https://www.vocecertificado.com.br/consultar-custos-aws-cloudshell/)**, do blog da Você Certificado®.
 
 ## Como funciona
 
