@@ -1,0 +1,21 @@
+# Arquivos gerados localmente
+.aws-clsh-config.json
+.history/
+.session-commands.log
+
+# Arquivos de editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos de OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.cache
