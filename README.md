@@ -1,4 +1,4 @@
-# Consultar custos AWS pelo CloudShell
+# AWS CloudShell: Consultar Custos do Ambiente AWS
 
 ![AWS CloudShell](https://img.shields.io/badge/AWS-CloudShell-FF9900?logo=amazonwebservices&logoColor=white)
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-v2-232F3E)
